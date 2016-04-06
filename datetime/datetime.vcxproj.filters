@@ -21,9 +21,33 @@
     <ClCompile Include="..\..\datetimeGiven\datetime\src\testdriver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\datetimeGiven\datetime\src\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\datetimeGiven\datetime\src\testDatetime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\datetimeGiven\datetime\src\date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\datetimeGiven\datetime\src\datetime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\datetimeGiven\datetime\src\time1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\datetimeGiven\datetime\src\test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\datetimeGiven\datetime\src\testDatetime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\datetimeGiven\datetime\src\date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\datetimeGiven\datetime\src\datetime.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
