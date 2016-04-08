@@ -69,6 +69,7 @@
     <ClCompile Include="..\..\datetimeGiven\datetime\src\datetime.cpp" />
     <ClCompile Include="..\..\datetimeGiven\datetime\src\test.cpp" />
     <ClCompile Include="..\..\datetimeGiven\datetime\src\testDatetime.cpp" />
+    <ClCompile Include="..\..\datetimeGiven\datetime\src\testTime.cpp" />
     <ClCompile Include="..\..\datetimeGiven\datetime\src\testdriver.cpp" />
     <ClCompile Include="..\..\datetimeGiven\datetime\src\time.cpp" />
   </ItemGroup>
@@ -77,6 +78,7 @@
     <ClInclude Include="..\..\datetimeGiven\datetime\src\datetime.h" />
     <ClInclude Include="..\..\datetimeGiven\datetime\src\test.h" />
     <ClInclude Include="..\..\datetimeGiven\datetime\src\testDatetime.h" />
+    <ClInclude Include="..\..\datetimeGiven\datetime\src\testTime.h" />
     <ClInclude Include="..\..\datetimeGiven\datetime\src\time1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
